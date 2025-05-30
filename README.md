@@ -48,7 +48,5 @@ This project performs an in-depth exploratory data analysis on the popular Diamo
 - `Cut`, `color`, and `clarity` also influence price, but less significantly than `carat`.
 - Certain outliers exist in the dataset that may skew models.
 
----
 
-## 📂 File Structure
 
